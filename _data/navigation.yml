@@ -1,8 +1,8 @@
 # main links links
 main:
   
-  - title: "Home"
-    url: /cv/ 
+  #- title: "Home"
+  #  url: /cv/ 
   
   - title: "Publications"
     url: /publications/
