@@ -7,11 +7,13 @@ main:
   - title: "Publications"
     url: /publications/
  
+  ## project: talks
   - title: "Project"
-    url: /talks/    
-
+    url: /project/    
+ 
+  ## Member: teaching
   - title: "Member"
-    url: /teaching/    
+    url: /member/    
     
   #- title: "Portfolio"
   #  url: /portfolio/
