@@ -17,7 +17,7 @@ author_profile: true
 {% endfor %}
 -->
 ---
-permalink: /
+permalink: /publications
 title: "Pan Mu's HomePage"
 excerpt: "About me"
 author_profile: true
