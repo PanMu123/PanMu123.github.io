@@ -1,12 +1,14 @@
 ---
+layout: archive
+title: "Publications"
 permalink: /publications/
-title: "publications"
-excerpt: "About me"
 author_profile: true
-redirect_from: 
-  - /publications/
-  - /publications.html
+redirect_from:
+  - /resume
 ---
+
+{% include base_path %}
+
 
 这是一个介绍穆攀主页的说明， 以及其团队方向的说明
 
