@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "http://liuyang079.github.io"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
