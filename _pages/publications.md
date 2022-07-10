@@ -22,8 +22,8 @@ title: "Pan Mu's HomePage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /publications/
+  - /publications.html
 ---
 
 这是一个介绍穆攀主页的说明， 以及其团队方向的说明
