@@ -14,22 +14,21 @@ redirect_from:
 
 2022
 ======
-<!--
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2022</div><img src='https://github.com/liuyang079/liuyang079.github.io/tree/master/images/mp_article_test1.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2022</div><img src='/images/mp_article_test1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
--->
+<!--
 <div  align="center">
  <img src="/images/mp_article_test1.png"  align=center />
 </div>
+-->
 
 **Pan Mu**, Pan Mu, Feiyang Chen, Zhou Zhao,"DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism", \\
 **NIPS**, 2022.
 
 [**Paper**](https://proceedings.neurips.cc/paper/2019/file/f63f65b503e22cb970527f23c9ad7db1-Paper.pdf) \| [**Code**](https://github.com/liuyang079/liuyang079.github.io)
-<!-- 
 </div>
 </div>
--->
 
 2021
 ======
