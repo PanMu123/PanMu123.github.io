@@ -1,6 +1,6 @@
 ---
-permalink: /publications
-title: "Pan Mu's HomePage"
+permalink: /publications/
+title: "publications"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
