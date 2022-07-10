@@ -17,11 +17,6 @@ redirect_from:
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2022</div><img src='/images/mp_article_test1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<!--
-<div  align="center">
- <img src="/images/mp_article_test1.png"  align=center />
-</div>
--->
 
 **Pan Mu**, Pan Mu, Feiyang Chen, Zhou Zhao,"DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism", \\
 **NIPS**, 2022.
