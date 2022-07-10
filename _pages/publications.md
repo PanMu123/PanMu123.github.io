@@ -15,22 +15,6 @@ redirect_from:
 2022
 ======
 
-<center>
-	<img src="/images/mp_article_test2.png" width="30%" />
-	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-	
-	<font color="AAAAAA">001.jpg</font>
-	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-	<font color="AAAAAA">002.jpg</font>
-</center>
-<br/>
-
-
-
-
-<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2022</div><img src='/images/mp_article_test2.png' alt="sym" width="30%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -40,7 +24,7 @@ redirect_from:
 [**Paper**](https://proceedings.neurips.cc/paper/2019/file/f63f65b503e22cb970527f23c9ad7db1-Paper.pdf) \| [**Code**](https://github.com/liuyang079/liuyang079.github.io)
 </div>
 </div>
--->
+
 
 
 2021
