@@ -19,7 +19,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 -->
 <div  align="center">
- <img src="https://github.com/liuyang079/liuyang079.github.io/tree/master/images/mp_article_test1.png"  align=center />
+ <img src="images/mp_article_test1.png"  align=center />
 </div>
 
 **Pan Mu**, Pan Mu, Feiyang Chen, Zhou Zhao,"DiffSinger: Singing Voice Synthesis via Shallow Diffusion Mechanism", \\
