@@ -10,16 +10,17 @@ redirect_from:
 {% include base_path %}
 
 
-这是一个介绍穆攀主页的说明， 以及其团队方向的说明
+相关文章发表详情
 
-科研方向介绍
+2022
 ======
-计算图形学&&视觉相关
+ACMMM
 
-NEWS
+2021
 ======
-本部分主要放入最新的发表论文，文章等
+CVPR
 
-Site-wide configuration
-------
+2020
+======
+NIPS
 
