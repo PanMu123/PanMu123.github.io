@@ -9,11 +9,11 @@ main:
  
   ## project: talks
   - title: "Project"
-    url: /project/    
+    url: /talks/    
  
   ## Member: teaching
   - title: "Member"
-    url: /member/    
+    url: /teaching/    
     
   #- title: "Portfolio"
   #  url: /portfolio/
