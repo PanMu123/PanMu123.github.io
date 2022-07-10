@@ -15,27 +15,19 @@ redirect_from:
 2022
 ======
 
-<table rules="none" align="center">
-	<tr>
-		<td>
-			<center>
-				<img src="/images/mp_article_test2.png" width="30%" />
-				<br/>
-			</center>
-		</td>
-		<td>
-			<center>
-				<div class='paper-box-text' markdown="1">
-          **Pan Mu**, PortaSpeech: Portable and High-Quality Generative Text-to-Speech,\\
-          **NIPS**, 2022.
+<center>
+	<img src="/images/mp_article_test2.png" width="30%" />
+	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+	
+	<font color="AAAAAA">001.jpg</font>
+	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+	&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+	<font color="AAAAAA">002.jpg</font>
+</center>
+<br/>
 
-          [**Paper**](https://proceedings.neurips.cc/paper/2019/file/f63f65b503e22cb970527f23c9ad7db1-Paper.pdf) \| [**Code**](https://github.com/liuyang079/liuyang079.github.io)
-        </div>
-				<br/>
-			</center>
-		</td>
-	</tr>
-</table>
+
 
 
 <!--
@@ -49,6 +41,7 @@ redirect_from:
 </div>
 </div>
 -->
+
 
 2021
 ======
