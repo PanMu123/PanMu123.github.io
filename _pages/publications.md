@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+<span class='anchor' id='about-me'></span>
 
 相关文章发表详情
 
