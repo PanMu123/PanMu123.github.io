@@ -16,9 +16,9 @@ redirect_from:
 2022
 ======
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NIPS 2022</div><img src='/images/mp_article_test2.png' alt="sym" width="30%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='/images/mp_article_test1.png' alt="sym" width="30%"></div></div>
 <div class='paper-box-text' markdown="1">
-
+  
 **Pan Mu**, PortaSpeech: Portable and High-Quality Generative Text-to-Speech,\\
 **NIPS**, 2022.
 
