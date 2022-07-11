@@ -29,9 +29,27 @@ redirect_from:
 
 2021
 ======
-CVPR
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='/images/mp_article_test1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**Pan Mu**, PortaSpeech: Portable and High-Quality Generative Text-to-Speech,\\
+**NIPS**, 2022.
+
+[**Paper**](https://proceedings.neurips.cc/paper/2019/file/f63f65b503e22cb970527f23c9ad7db1-Paper.pdf) \| [**Code**](https://github.com/liuyang079/liuyang079.github.io)
+</div>
+</div>
+
 
 2020
 ======
-PAMI
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PAMI 2022</div><img src='/images/mp_article_test1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+**Pan Mu**, PortaSpeech: Portable and High-Quality Generative Text-to-Speech,\\
+**NIPS**, 2022.
+
+[**Paper**](https://proceedings.neurips.cc/paper/2019/file/f63f65b503e22cb970527f23c9ad7db1-Paper.pdf) \| [**Code**](https://github.com/liuyang079/liuyang079.github.io)
+</div>
+</div>
+
 
