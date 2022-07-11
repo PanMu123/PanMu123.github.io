@@ -14,8 +14,8 @@ redirect_from:
 
 Professor
 ======
-<div class='paper-box'><div class='paper-box-image'><div><img src='/images/mp-github.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='member-box'><div class='member-box-image'><div><img src='/images/mp-github.png' alt="sym" width="100%"></div></div>
+<div class='member-box-text' markdown="1">
 
 **Pan Mu** \\
 Tenured Full Professor \\
