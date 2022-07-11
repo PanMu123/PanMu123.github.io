@@ -17,7 +17,7 @@ Professor
 <div class='paper-box'><div class='paper-box-image'><div><img src='/images/mp-github.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Pan Mu**
+**Pan Mu** \\
 Tenured Full Professor \\
 College of Computer Science and Technology \\
 Zhejiang University of Technology
