@@ -14,7 +14,15 @@ redirect_from:
 
 Professor
 ======
-穆攀
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2022</div><img src='/images/mp_article_test1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Pan Mu**
+Tenured Full Professor
+College of Computer Science and Technology
+Zhejiang University of Technology
+</div>
+</div>
 
 Ph.D. Students
 ======
