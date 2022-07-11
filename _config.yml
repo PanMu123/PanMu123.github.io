@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mu Pan / Zhejiang University of Technology"
+title                    : "Pan Mu / Zhejiang University of Technology"
 title_separator          : "-"
 name                     : &name "Mu Pan"
 description              : &description "personal description"
