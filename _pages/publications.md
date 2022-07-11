@@ -33,7 +33,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
   
 **Pan Mu**, PortaSpeech: Portable and High-Quality Generative Text-to-Speech,\\
-**NIPS**, 2022.
+**CVPR**, 2021.
 
 [**Paper**](https://proceedings.neurips.cc/paper/2019/file/f63f65b503e22cb970527f23c9ad7db1-Paper.pdf) \| [**Code**](https://github.com/liuyang079/liuyang079.github.io)
 </div>
@@ -46,7 +46,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
   
 **Pan Mu**, PortaSpeech: Portable and High-Quality Generative Text-to-Speech,\\
-**NIPS**, 2022.
+**PAMI**, 2020.
 
 [**Paper**](https://proceedings.neurips.cc/paper/2019/file/f63f65b503e22cb970527f23c9ad7db1-Paper.pdf) \| [**Code**](https://github.com/liuyang079/liuyang079.github.io)
 </div>
