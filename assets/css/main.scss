@@ -90,7 +90,7 @@
 
 .member-box {
     display: flex;
-    justify-content: left;
+    justify-content: flex-start;
     align-items: center;
     flex-direction: row;
     flex-wrap: wrap;
@@ -117,14 +117,14 @@
     
     @include breakpoint($medium) {
         .member-box-image{
-            justify-content: left;
+            justify-content: flex-start;
             min-width: 200px;
             max-width: 40%;
             order: 1;
         }
         
         .member-box-text{
-            justify-content: left;
+            justify-content: flex-start;
             padding-left: 0em;
             max-width: 60%;
             order: 2;
